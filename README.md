@@ -11,4 +11,6 @@
 
 ## TXT Controller - Fischertechnik
 
+- **[QR Code Reader for COVID-19 (TXT + OpenCV)](https://github.com/MeqdadDarweesh/txt-qr-reader-covid19)**
+
 ## micro:bit
