@@ -1,6 +1,5 @@
 # Robotics Projects
 
-
 ## NVIDIA Jetson Nano
 
 ## RaspberryPi
@@ -12,5 +11,7 @@
 ## TXT Controller - Fischertechnik
 
 - **[QR Code Reader for COVID-19 (TXT + OpenCV)](https://github.com/MeqdadDarweesh/txt-qr-reader-covid19)**
+
+- **[Face Mask Detector (TXT + OpenCV)](https://github.com/MeqdadDarweesh/txt-mask-detector)**
 
 ## micro:bit
